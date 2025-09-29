@@ -1,4 +1,4 @@
-# AI Studio Gemini App Proxy Server
+# Gemini App Proxy Server
 
 This nodejs proxy server lets you run your AI Studio Gemini application unmodified, without exposing your API key in the frontend code.
 
