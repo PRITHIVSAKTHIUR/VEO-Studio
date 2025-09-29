@@ -1,3 +1,10 @@
+# **VEO-Studio**
+
+https://github.com/user-attachments/assets/49a56dac-c2f8-4862-9647-80c2674acf5d
+
+https://github.com/user-attachments/assets/e06db1b1-7f8b-4e7c-afea-d19e3eb5aa8e
+
+
 # Gemini App Proxy Server
 
 This nodejs proxy server lets you run your AI Studio Gemini application unmodified, without exposing your API key in the frontend code.
